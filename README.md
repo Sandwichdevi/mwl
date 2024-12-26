@@ -1,4 +1,4 @@
-# Minecraft World Loader and Downloader (MWL)
+# Minecraft World Loader (MWL)
 
 Minecraft World Loader (MWL) is a simple console application designed to help Minecraft players easily download and extract world files into their local Minecraft installation. The tool automates the process of selecting the Minecraft folder, extracting world files from a ZIP archive, and launching Minecraft after the process is complete.
 
@@ -78,9 +78,9 @@ Feel free to open an issue on the GitHub repository if you encounter any problem
 
 ## License
 
-Minecraft World Loader and Downloader is open-source and released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Minecraft World Loader is open-source and released under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Thank you for using Minecraft World Loader and Downloader! If you need help or have any questions, feel free to reach out via GitHub issues.
+Thank you for using Minecraft World Loader! If you need help or have any questions, feel free to reach out via GitHub issues.
 
