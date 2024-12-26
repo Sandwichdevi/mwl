@@ -62,7 +62,7 @@ The application saves the path to your Minecraft folder in a configuration file 
 
 If you find MWL useful and would like to support its development, you can make a donation via the following links:
 
-- **Ko-Fi**: [Donate via Ko-Fi]([https://ko-fi.com/sandwichdev])
+- **Ko-Fi**: [Donate via Ko-Fi](https://ko-fi.com/sandwichdev)
 
 Your donations help maintain and improve the application.
 
