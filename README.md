@@ -19,7 +19,7 @@ Minecraft World Loader (MWL) is a simple console application designed to help Mi
 ## How to Use
 
 ### 1. **Download the Latest Version**
-   Download the latest version of MWL from the [releases page](https://github.com/yourusername/minecraft-world-loader/releases).
+   Download the latest version of MWL from the [releases page](https://github.com/Sandwichdevi/mwl/releases).
 
 ### 2. **Run the Application**
    After downloading the executable, run the program by double-clicking it or using the command line.
